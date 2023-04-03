@@ -1,8 +1,8 @@
 # Test Title
 
-* Option 1
-* Option 2
-* Option 3
+* Option 10
+* Option 20
+* Option 30
 
 ### Now I have 3
 ## I have 2
