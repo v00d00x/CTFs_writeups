@@ -1,4 +1,3 @@
-> v00d00 | 2023
 ## VishwaCTF 2023
 
 * [Welcome]()
