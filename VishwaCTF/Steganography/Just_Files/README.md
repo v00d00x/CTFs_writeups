@@ -10,13 +10,17 @@ DESCRIPTION
 ```
 They are not what you see. They are different. Believe me.
 ```
+
 FLAG FORMAT
+
 ``
 VishwaCTF{}
 ``
 
 FILE(s)
-yes_its_a_zip_file_withnosecurity.zip
+
+[yes_its_a_zip_file_withnosecurity.zip](/Just_Files/yes_its_a_zip_file_withnosecurity.zip)
+
 ---
 ### Writeup
 
