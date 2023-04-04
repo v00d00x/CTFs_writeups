@@ -1,9 +1,8 @@
-#0969A
-> v00d00x | July 2023
+<div align="right">> v00d00x | July 2023</div>
 
 ## VishwaCTF 2023
 
-* [Welcome]
+* [Welcome]()
 * ~~Cryptography~~
 * [Steganography](Steganography/)
 * ~~OSINT~~
