@@ -5,7 +5,7 @@
 
 * Welcome
 * ~~Cryptography~~
-* ~~Steganography~~
+* [Steganography](/Steganography/)
 * ~~OSINT~~
 * ~~Reversing~~
 * ~~WEB~~
