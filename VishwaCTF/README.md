@@ -1,7 +1,4 @@
-<p style="text-align:right">
->v00d00x | July 2023
-</p>
-
+> v00d00 | 2023
 ## VishwaCTF 2023
 
 * [Welcome]()
