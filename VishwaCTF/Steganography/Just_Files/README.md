@@ -4,15 +4,16 @@
 
 ### Just Files
 ----
-Category: Steganography | Medium
+**Category:** Steganography | Medium
 
-DESCRIPTION
+**DESCRIPTION**
 
-FLAG FORMAT
+**FLAG FORMAT**
 `VishwaCTF{}`
 
-FILE(s)
+**FILE(s)**
 
-
+---
 ### Writeup
 
+blablabla
