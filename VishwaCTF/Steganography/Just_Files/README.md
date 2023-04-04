@@ -19,7 +19,7 @@ VishwaCTF{}
 
 FILE(s)
 
-[yes_its_a_zip_file_withnosecurity.zip](VishwaCTF/Steganography/Just_Files/yes_its_a_zip_file_withnosecurity.zip)
+[yes_its_a_zip_file_withnosecurity.zip](yes_its_a_zip_file_withnosecurity.zip)
 
 ---
 ### Writeup
