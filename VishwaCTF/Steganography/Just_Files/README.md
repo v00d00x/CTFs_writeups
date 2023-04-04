@@ -4,18 +4,18 @@
 
 ### Just Files
 ----
-**Category:** Steganography | Medium
+Category: Steganography | Medium
 
-**DESCRIPTION**
+DESCRIPTION
 ```
 They are not what you see. They are different. Believe me.
 ```
-**FLAG FORMAT**
+FLAG FORMAT
 ``
 VishwaCTF{}
 ``
 
-**FILE(s)**
+FILE(s)
 yes_its_a_zip_file_withnosecurity.zip
 ---
 ### Writeup
