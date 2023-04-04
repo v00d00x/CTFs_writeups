@@ -16,4 +16,4 @@
 
 The Welcome session had flags hidden in the VishwaCTF channel on Discord
 --
-!(/img/welcome1.JPG)
+!(VishwaCTF/img/welcome1.JPG)
