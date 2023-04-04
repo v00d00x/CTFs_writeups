@@ -3,9 +3,9 @@
 
 ## VishwaCTF 2023
 
-* Welcome
+* [Welcome]
 * ~~Cryptography~~
-* [Steganography](/Steganography/)
+* [Steganography](Steganography/)
 * ~~OSINT~~
 * ~~Reversing~~
 * ~~WEB~~
