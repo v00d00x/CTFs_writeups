@@ -1,8 +1,6 @@
 ## VishwaCTF 2023
 
-> Steganography
-
-**Challengers**
+> Challengers | Steganography
 
 - [Sometimes it's tough being the best]
 - [CID]
