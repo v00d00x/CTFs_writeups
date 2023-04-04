@@ -1,6 +1,6 @@
-### VishwaCTF 2023
+## VishwaCTF 2023
 
-## Challengers
+### Challengers
 
 - [Sometimes it's tough being the best]
 <!--- [CID]
