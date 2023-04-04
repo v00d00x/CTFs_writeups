@@ -6,5 +6,5 @@
 - [Reverse Hill]
 - [Mechanical Engineering]
 - [Wednesday Thursday Friday]
-- [QReversing is Ezeeee]
+- [Reversing is Ezeeee]
 - [Phi-Calculator]
