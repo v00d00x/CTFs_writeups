@@ -12,7 +12,7 @@
 * ~~Forensics
 * ~~Miscellaneous
 
-## Welcome
+> Welcome
 
 The Welcome session had flags hidden in the VishwaCTF channel on Discord
 --
