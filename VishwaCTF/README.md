@@ -3,14 +3,14 @@
 
 ## VishwaCTF 2023
 
-* ~~Welcome
-* ~~Cryptography
-* ~~Steganography
-* ~~OSINT
-* ~~Reversing
-* ~~WEB
-* ~~Forensics
-* ~~Miscellaneous
+* Welcome
+* ~~Cryptography~~
+* ~~Steganography~~
+* ~~OSINT~~
+* ~~Reversing~~
+* ~~WEB~~
+* ~~Forensics~~
+* ~~Miscellaneous~~
 
 > Welcome:
 
