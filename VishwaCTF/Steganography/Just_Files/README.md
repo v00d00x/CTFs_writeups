@@ -7,8 +7,7 @@
 **Category:** Steganography | Medium
 
 **DESCRIPTION**
-```They are not what you see. They are different. Believe me.
-```
+```They are not what you see. They are different. Believe me.```
 **FLAG FORMAT**
 ``VishwaCTF{}``
 
