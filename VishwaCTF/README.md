@@ -4,7 +4,7 @@
 * ~~Cryptography~~
 * [Steganography](Steganography/)
 * ~~OSINT~~
-* ~~Reversing~~
+* [Reversing](Reversing/)
 * ~~WEB~~
 * ~~Forensics~~
 * ~~Miscellaneous~~
